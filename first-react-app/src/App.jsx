@@ -1,11 +1,11 @@
 import './App.css'
-import Card from './Card'
+import CardContainer from './CardContainer'
 
 function App() {
   return (
     <>
       <h1>Hello World!</h1>
-      <Card />
+      <CardContainer />
     </>
   )
 }

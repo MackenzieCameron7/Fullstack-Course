@@ -33,6 +33,10 @@
   }
 }
 
+.CardContainer {
+  display: flex;
+}
+
 .card {
   padding: 2em;
   border: 3px #e1e1e1 solid;
